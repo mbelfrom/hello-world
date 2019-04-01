@@ -1,2 +1,2 @@
 # hello-world
-this is the begging
+this is the beginning
